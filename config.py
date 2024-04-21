@@ -1,0 +1,1 @@
+uri = 'mongodb+srv://mandelabyron:<password>@cluster0.23qpnq4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
